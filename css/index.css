@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+header {
+    background-color: #03385E;
+    width: 100%;
+    height: 50px;
+    color: #fff;
+    font-family: Arial;
+}
+h1 {
+    margin-left: 10px;
+    float: left;
+}
+.fa-bars {
+    float: left;
+    font-size: 30px;
+    margin-left: 10px;
+}
+nav {
+    width: 2.5%;
+    height: 94.7vh;
+    background-color: #03385E;
+    font-size: 30px;
+    text-align: center;
+    color: #5F94D0;
+    float: left;
+}
+.fas {
+    padding: 10px 0px;
+}
+a {
+    color: #5F94D0;
+}
+a:hover {
+    color: #97D5EC;
+}
+section {
+    height: 94.7vh;
+    width: 97.5%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    float: left;
+    background-color: #C6D8F6;
+}
+article {
+    background-color: #fff;
+    margin: 0px 300px;
+}
+h2 {
+    padding: 10px;
+    font-family: 'Yeseva One', cursive;
+    color: #000;
+}
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 23px;
+}
